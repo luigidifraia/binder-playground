@@ -1,0 +1,9 @@
+name: vanillaenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - pandas
+  - pip
+prefix: /opt/conda/envs/vanillaenv
