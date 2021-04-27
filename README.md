@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luigidifraia/luigidifraia-binder-playground/main?filepath=README.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luigidifraia/binder-playground/main?filepath=README.ipynb)
 
 # binder-playground
 
